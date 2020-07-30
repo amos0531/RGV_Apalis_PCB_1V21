@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetDI12_K Pin=IC6-3
+Removed Pin From Net: NetName=NetDI10_K Pin=IC6-4
+Removed Pin From Net: NetName=DII13 Pin=R138-2
+Removed Pin From Net: NetName=DII14 Pin=R139-2
+Change Component Comment : Designator=DI10 Old Comment=LEDÂÌ New Comment=LEDÂÌ_0805
+Change Component Comment : Designator=DI12 Old Comment=LEDÂÌ New Comment=LEDÂÌ_0805
+Added Pin To Net: NetName=DII13 Pin=DI10-A
+Added Pin To Net: NetName=DII14 Pin=DI12-A
+Added Pin To Net: NetName=NetDI10_K Pin=R138-2
+Added Pin To Net: NetName=NetDI12_K Pin=R139-2
+Added Pin To Net: NetName=NetIC6_3 Pin=IC6-3
+Added Pin To Net: NetName=NetIC6_3 Pin=R139-1
+Added Net: Name=NetIC6_3
+Added Pin To Net: NetName=NetIC6_4 Pin=IC6-4
+Added Pin To Net: NetName=NetIC6_4 Pin=R138-1
+Added Net: Name=NetIC6_4

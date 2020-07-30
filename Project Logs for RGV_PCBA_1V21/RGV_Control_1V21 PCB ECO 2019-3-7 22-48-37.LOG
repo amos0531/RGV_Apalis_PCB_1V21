@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=3V3 Pin=LED10-A
+Added Pin To Net: NetName=3.3V_SW Pin=LED10-A

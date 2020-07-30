@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetC36_2 Pin=R65-1
+Removed Pin From Net: NetName=NetR63_2 Pin=U18-19
+Removed Pin From Net: NetName=NetR62_2 Pin=U18-20
+Change Component Footprint: Designator=C36 Old Footprint=T_CAPC0603X33N New Footprint=CAPC0603
+Change Component Comment : Designator=R64 Old Comment=22R New Comment=22R-5%-0603
+Change Component Comment : Designator=C37 Old Comment=33pF New Comment=33pf-50V-5%-0603
+Change Component Comment : Designator=C40 Old Comment=33pF New Comment=33pf-50V-5%-0603
+Change Component Comment : Designator=C41 Old Comment=33pF New Comment=33pf-50V-5%-0603
+Change Component Comment : Designator=C42 Old Comment=33pF New Comment=33pf-50V-5%-0603
+Change Component Comment : Designator=C36 Old Comment=100nF New Comment=0.1uf-50V-10%-0603
+Change Component Comment : Designator=J2 Old Comment=GNSS_ANT New Comment=ECT818000117
+Change Component Comment : Designator=J1 Old Comment=RF_ANT New Comment=ECT818000117
+Change component parameters: Designator = "C37"; Footprint = "T_CAPC0603X33N"; UniqueID = "\IFLCYJXO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C40"; Footprint = "T_CAPC0603X33N"; UniqueID = "\VCNVACGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41"; Footprint = "T_CAPC0603X33N"; UniqueID = "\BHHFJHNT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C42"; Footprint = "T_CAPC0603X33N"; UniqueID = "\OWKEPXPY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "NP0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36"; Footprint = "CAPC0603"; UniqueID = "\CGWJMAVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nf"; VariantName = "[No Variations]"
+Added Component: Designator=D43(UDFN6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D43-2
+Added Pin To Net: NetName=NetC36_2 Pin=D43-6
+Added Pin To Net: NetName=NetC36_2 Pin=R65-2
+Added Pin To Net: NetName=NetR63_2 Pin=X3-6
+Added Pin To Net: NetName=NetR62_2 Pin=X3-7
+Change Net Name : Old Net Name=NetC36_2 New Net Name=SIM_VDD
+Added Pin To Net: NetName=NetD43_1 Pin=D43-1
+Added Net: Name=NetD43_1
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetR64_1 Pin=R65-1
+Added Pin To Net: NetName=NetR64_1 Pin=X3-3
+Added Net: Name=NetR64_1
+Added Pin To Net: NetName=SIM_CLK Pin=C42-2
+Added Pin To Net: NetName=SIM_CLK Pin=D43-4
+Added Pin To Net: NetName=SIM_CLK Pin=R63-1
+Added Pin To Net: NetName=SIM_CLK Pin=U18-19
+Added Net: Name=SIM_CLK
+Added Pin To Net: NetName=SIM_DATA Pin=C40-2
+Added Pin To Net: NetName=SIM_DATA Pin=D43-3
+Added Pin To Net: NetName=SIM_DATA Pin=R64-2
+Added Pin To Net: NetName=SIM_DATA Pin=U18-21
+Added Net: Name=SIM_DATA
+Added Pin To Net: NetName=SIM_RST Pin=C41-2
+Added Pin To Net: NetName=SIM_RST Pin=D43-5
+Added Pin To Net: NetName=SIM_RST Pin=R62-1
+Added Pin To Net: NetName=SIM_RST Pin=U18-20
+Added Net: Name=SIM_RST
+Added Member To Class: ClassName=12_NB-IOT_Core Member=Component D43 NUP5150MUTBG

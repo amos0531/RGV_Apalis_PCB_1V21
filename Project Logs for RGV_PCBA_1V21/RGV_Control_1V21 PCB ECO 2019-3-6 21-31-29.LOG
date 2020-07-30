@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetDI9_K Pin=IC6-5
+Removed Pin From Net: NetName=NetDI8_K Pin=IC6-6
+Removed Pin From Net: NetName=DII11 Pin=R136-2
+Removed Pin From Net: NetName=DII12 Pin=R137-2
+Change Component Comment : Designator=R136 Old Comment=2KR New Comment=2K_5%_2010
+Change Component Comment : Designator=R137 Old Comment=2KR New Comment=2K_5%_2010
+Change Component Comment : Designator=R138 Old Comment=2KR New Comment=2K_5%_2010
+Change Component Comment : Designator=R139 Old Comment=2KR New Comment=2K_5%_2010
+Change Component Comment : Designator=DI8 Old Comment=LEDÂÌ New Comment=LEDÂÌ_0805
+Change Component Comment : Designator=DI9 Old Comment=LEDÂÌ New Comment=LEDÂÌ_0805
+Change Component Description : Designator=R139 Old Description=Resistor 2 Kohm 500mW 5% 2010 New Description=
+Added Pin To Net: NetName=DII11 Pin=DI8-A
+Added Pin To Net: NetName=DII12 Pin=DI9-A
+Added Pin To Net: NetName=NetDI8_K Pin=R136-2
+Added Pin To Net: NetName=NetDI9_K Pin=R137-2
+Added Pin To Net: NetName=NetIC6_5 Pin=IC6-5
+Added Pin To Net: NetName=NetIC6_5 Pin=R137-1
+Added Net: Name=NetIC6_5
+Added Pin To Net: NetName=NetIC6_6 Pin=IC6-6
+Added Pin To Net: NetName=NetIC6_6 Pin=R136-1
+Added Net: Name=NetIC6_6

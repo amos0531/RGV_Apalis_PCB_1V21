@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC16_1 Pin=DI2-K
+Removed Pin From Net: NetName=NetC18_1 Pin=DI4-K
+Removed Pin From Net: NetName=NetC20_1 Pin=DI6-K
+Removed Pin From Net: NetName=DII01 Pin=R16-1
+Removed Pin From Net: NetName=DII02 Pin=R20-1
+Removed Pin From Net: NetName=DII03 Pin=R24-1
+Added Pin To Net: NetName=DII01 Pin=DI2-A
+Added Pin To Net: NetName=DII02 Pin=DI4-A
+Added Pin To Net: NetName=DII03 Pin=DI6-A
+Added Pin To Net: NetName=NetC16_1 Pin=R16-2
+Added Pin To Net: NetName=NetC18_1 Pin=R20-2
+Added Pin To Net: NetName=NetC20_1 Pin=R24-2
+Added Pin To Net: NetName=NetDI2_K Pin=DI2-K
+Added Pin To Net: NetName=NetDI2_K Pin=R16-1
+Added Net: Name=NetDI2_K
+Added Pin To Net: NetName=NetDI4_K Pin=DI4-K
+Added Pin To Net: NetName=NetDI4_K Pin=R20-1
+Added Net: Name=NetDI4_K
+Added Pin To Net: NetName=NetDI6_K Pin=DI6-K
+Added Pin To Net: NetName=NetDI6_K Pin=R24-1
+Added Net: Name=NetDI6_K

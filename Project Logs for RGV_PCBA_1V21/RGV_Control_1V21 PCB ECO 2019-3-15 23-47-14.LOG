@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RS232_5V_ISO Pin=TP1101-1
+Removed Pin From Net: NetName=RS232_GND_ISO Pin=TP1102-1
+Removed Member From Class: ClassName=11_RS232_2 Member=TP1101
+Removed Member From Class: ClassName=11_RS232_2 Member=TP1102

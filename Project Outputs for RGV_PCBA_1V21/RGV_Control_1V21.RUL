@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: D:\Projects\RGV\PCB\RGV_PCBA_V0.1\Layout\RGV_Control_1V21.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_48V|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Relay|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Single_Ended_55|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Single_Ended_50|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Power|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=SIM_RST Pin=C41-2
+Removed Pin From Net: NetName=SIM_CLK Pin=C42-2
+Removed Pin From Net: NetName=SIM_CLK Pin=D43-4
+Removed Pin From Net: NetName=SIM_RST Pin=D43-5
+Removed Pin From Net: NetName=SIM_VDD Pin=R65-2
+Removed Pin From Net: NetName=SIM_DATA Pin=U18-21
+Added Pin To Net: NetName=SIM_VDD Pin=R65-1
+Added Pin To Net: NetName=SIM_DATA Pin=X3-3
+Change Net Name : Old Net Name=SIM_DATA New Net Name=NetC40_2
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=D43-5
+Added Pin To Net: NetName=NetC41_2 Pin=R62-2
+Added Pin To Net: NetName=NetC41_2 Pin=X3-7
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=D43-4
+Added Pin To Net: NetName=NetC42_2 Pin=R63-2
+Added Pin To Net: NetName=NetC42_2 Pin=X3-6
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=SIM_DATA Pin=R64-1
+Added Pin To Net: NetName=SIM_DATA Pin=R65-2
+Added Pin To Net: NetName=SIM_DATA Pin=U18-21
+Added Net: Name=SIM_DATA

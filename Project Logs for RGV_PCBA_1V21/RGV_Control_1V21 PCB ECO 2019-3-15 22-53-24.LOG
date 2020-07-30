@@ -1,0 +1,4 @@
+Added Component: Designator=TP11(T_TP-THT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=12V_ISO Pin=TP11-1
+Added Member To Class: ClassName=15_GPIOs_2 Member=Component TP11 Testpin

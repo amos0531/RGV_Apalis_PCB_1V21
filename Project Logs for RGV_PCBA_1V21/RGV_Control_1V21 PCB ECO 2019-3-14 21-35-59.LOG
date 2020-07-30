@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3V_UART Pin=C137-2
+Removed Pin From Net: NetName=3.3V_UART Pin=IC24-16
+Added Pin To Net: NetName=3.3V_RS232 Pin=C137-2
+Added Pin To Net: NetName=3.3V_RS232 Pin=IC24-16

@@ -1,0 +1,542 @@
+Altium Designer Pick and Place Locations
+D:\Projects\RGV\PCB\RGV_PCBA_V0.1\Project Outputs for RGV_PCBA_V0.1\Pick Place for RGV_Control_1V21.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/03/19
+Time:       17:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                            Layer       Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                    
+C178       0.1uf-50V-10%-0603                 TopLayer    CAPC0603                3245.000      3243.000      180      33pf-50V-5%-0603                               
+C177       27pf-50V-1%-0603                   TopLayer    CAPC0603                3245.000      3464.000      180      33pf-50V-5%-0603                               
+R64        22R-5%-0603                        BottomLayer T_RESC0603X30N          7544.000      323.000       90       "Resistor 22 ohm 63mW 5% 0603"                 
+D43        CESDLC5V0M5                        BottomLayer SOT-563                 7670.000      376.000       360      "ESD Protection Diode Array"                   
+TP11       Testpin                            TopLayer    T_TP-THT                1003.000      4424.000      90       "Testpin TH"                                   
+U21        MBR20100CT                         TopLayer    TO-220                  2486.000      210.055       180      MBR20100CT                                     
+X7         101-00565-64                       BottomLayer T__AMPHENOL_101-00565   4789.661      549.689       180      "SD/MMC 8bit Card Holder"                      
+D42        ESD9L5.0ST5G                       BottomLayer LC-SOD-923              8544.291      468.504       270      "TVS Diode"                                    
+D41        ESD9L5.0ST5G                       BottomLayer LC-SOD-923              8495.000      522.000       90       "TVS Diode"                                    
+D40        PTVSHC3D12VU                       BottomLayer LC-SOD-323              8492.126      375.984       270      "TVS Diode"                                    
+D39        ESD9L5.0ST5G                       TopLayer    LC-SOD-923              6724.000      423.000       270      "TVS Diode"                                    
+D38        ESD9L5.0ST5G                       TopLayer    LC-SOD-923              6793.000      482.000       90       "TVS Diode"                                    
+D37        PTVSHC3D12VU                       TopLayer    LC-SOD-323              6467.520      631.890       270      "TVS Diode"                                    
+D36        PTVSHC3D12VU                       TopLayer    LC-SOD-323              7601.378      1213.583      270      "TVS Diode"                                    
+C176       100nf-50V-10%-0603                 TopLayer    T_CAPC0603X33N          7223.000      862.000       180      ""                                             
+C175       100uf-10V-10%-3528-TA              TopLayer    T_CAPMP3216X180N        7534.449      1105.315      90       ""                                             
+C174       22pf-50V-5%-0402-NP0               TopLayer    CAPC0402                7612.205      1026.575      180      ""                                             
+C173       100pf-50V-10%-0603-X7R             TopLayer    T_CAPC0603X33N          7621.000      1066.543      180      ""                                             
+C172       100nf-50V-10%-0603-X7R             TopLayer    T_CAPC0603X33N          7621.000      1116.000      180      ""                                             
+TP10       Testpin                            BottomLayer T_TP-THT                7903.000      1050.000      90       "Testpin TH"                                   
+IC8        "="Manucfacturer Part NO.""        BottomLayer LC-QFN-24_4x4x05P       8319.882      661.417       180      "Single-Chip USB To Dual UART Bridge"          
+LED10      LEDºì_0805                          TopLayer    LC-0805_LED_S3          4793.701      304.134       180      0805LEDÂÌ                                       
+R144       1K_0603                            TopLayer    T_RESC0603X30N          4959.205      301.134       180      "Resistor 1 Kohm 63mW 5% 0603"                 
+T11        DTC043ZEBTL                        TopLayer    SOT-416FL               4980.976      381.464       90       "Bias Resistor Build-in NPN Transistor"        
+C169       100nF                              TopLayer    T_CAPC0603X33N          8164.370      3234.252      360      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+R141       100R                               TopLayer    T_RESC0603X30N          8286.315      3234.252      180      "Resistor 120 ohm 63mW 5% 0603"                
+C171       100nF                              TopLayer    T_CAPC0603X33N          8015.748      2471.878      360      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+R143       100R                               TopLayer    T_RESC0603X30N          8016.732      2419.713      360      "Resistor 120 ohm 63mW 5% 0603"                
+C170       100nF                              TopLayer    T_CAPC0603X33N          8011.339      1644.685      360      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+R142       100R                               TopLayer    T_RESC0603X30N          8013.779      1698.819      360      "Resistor 120 ohm 63mW 5% 0603"                
+C168       100nF                              TopLayer    T_CAPC0603X33N          7971.457      5060.039      360      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+IC4        B0505XT-1W                         TopLayer    MORNSUN_B0305XT-1W_SMD  7167.000      2171.040      0        "MORNSUN Isolated DC/DC Converter"             
+IC31       B0505XT-1W                         BottomLayer MORNSUN_B0305XT-1W_SMD  7371.000      4868.000      270      "MORNSUN Isolated DC/DC Converter"             
+IC17       B0505XT-1W                         BottomLayer MORNSUN_B0305XT-1W_SMD  4810.039      3944.882      360      "MORNSUN Isolated DC/DC Converter"             
+IC7        B0505XT-1W                         BottomLayer MORNSUN_B0305XT-1W_SMD  668.457       4745.354      270      "MORNSUN Isolated DC/DC Converter"             
+Y2         10nf-2KV-10%-1210                  BottomLayer 1210                    894.000       1252.000      360      33pf-50V-5%-0603                               
+Y1         10nf-2KV-10%-1210                  TopLayer    1210                    891.000       1080.000      180      33pf-50V-5%-0603                               
+X6         RAPC722X                           TopLayer    DC-005                  443.287       3244.583      270      "Power Jack"                                   
+X5         CON-USB                            TopLayer    2.54*4p                 8619.094      491.142       360      "USB  Connector"                               
+X4         CON-USB                            TopLayer    2.54*4p                 6611.000      438.000       180      "USB  Connector"                               
+X3         NB-IOT-CARD                        BottomLayer QFN127P600X500X90_HS-9N 7612.000      542.000       360      "NB-IOT CARD"                                  
+X2         L829-1J1T-43                       TopLayer    T_BEL_L829-1J1T-43      8160.649      3678.000      270      "Low profile 10/100/1G Mag Jack"               
+X1         CON-JAE-MM70-314-310B1-314-0.5mm   TopLayer    T_JAE_MM70-314-310B1    4932.457      2340.394      270      "MXM3 Connector"                               
+U20        AVO120-48S12B-6L                   BottomLayer AVO120-48S12B-6L        2217.000      1088.000      0        Ç¶ÈëÊ½48-12VµçÔ´Ä£¿é                                  
+U19        MBR3045PT                          TopLayer    TO-3P                   1969.000      1739.000      180      ²å×°Ð¤ÌØ»ù¶þ¼«¹Ü£¬¼ÓÉ¢ÈÈÆ¬                                  
+U18        BC20                               TopLayer    BC20                    7650.976      584.638       360      ""                                             
+U17        MOCD217-M                          TopLayer    HCPL0601                1205.000      4618.000      0        ""                                             
+U16        MOCD217-M                          TopLayer    HCPL0601                1205.000      4971.000      0        ""                                             
+U15        SN54AHCT541                        TopLayer    TSSOP-20                1845.000      4708.606      0        ""                                             
+U14        TLP185                             TopLayer    SO_PHT-4                2952.333      4813.000      180      ¹âñî                                             
+U13        TLP185                             TopLayer    SO_PHT-4                3756.000      4388.000      90       ¹âñî                                             
+U12        TLP185                             TopLayer    SO_PHT-4                3756.000      4132.000      90       ¹âñî                                             
+U11        PCN-112D3MHZ-001                   BottomLayer CRH-1C                  2792.000      4426.000      270      Ì©¿Æ¼ÌµçÆ÷                                          
+U10        PCN-112D3MHZ-001                   BottomLayer CRH-1C                  2791.000      4164.000      270      Ì©¿Æ¼ÌµçÆ÷                                          
+U9         TLP185                             TopLayer    SO_PHT-4                2696.666      4813.000      180      ¹âñî                                             
+U8         TLP185                             TopLayer    SO_PHT-4                2441.000      4813.000      180      ¹âñî                                             
+U7         TLP185                             TopLayer    SO_PHT-4                2160.000      4813.000      180      ¹âñî                                             
+U6         TLP185                             BottomLayer SO_PHT-4                2012.795      4781.496      360      ¹âñî                                             
+U5         TLP185                             TopLayer    SO_PHT-4                3726.000      4813.000      180      ¹âñî                                             
+U4         TLP185                             BottomLayer SO_PHT-4                1741.063      4785.441      360      ¹âñî                                             
+U3         TLP185                             TopLayer    SO_PHT-4                3471.000      4813.000      180      ¹âñî                                             
+U2         TLP185                             BottomLayer SO_PHT-4                1454.024      4784.441      360      ¹âñî                                             
+U1         TLP185                             TopLayer    SO_PHT-4                3208.000      4813.000      180      ¹âñî                                             
+TP702      Testpin                            TopLayer    T_TP-THT                7304.000      4300.000      90       "Testpin TH"                                   
+TP701      Testpin                            TopLayer    T_TP-THT                7783.000      5111.000      90       "Testpin TH"                                   
+TP602      Testpin                            MultiLayer  T_TP-THT                7873.000      2096.000      90       "Testpin TH"                                   
+TP601      Testpin                            TopLayer    T_TP-THT                7566.929      1674.000      90       "Testpin TH"                                   
+TP8        Testpin                            TopLayer    T_TP-THT                2425.000      3980.000      0        "Testpin TH"                                   
+TP7        Testpin                            TopLayer    T_TP-THT                3540.000      269.000       0        "Testpin TH"                                   
+TP6        Testpin                            TopLayer    T_TP-THT                2459.000      2398.000      0        "Testpin TH"                                   
+TP4        Testpin                            TopLayer    T_TP-THT                3380.000      273.000       0        "Testpin TH"                                   
+TP3        Testpin                            TopLayer    T_TP-THT                2420.000      3744.000      0        "Testpin TH"                                   
+TP2        Testpin                            BottomLayer T_TP-THT                5285.000      1349.000      180      "Testpin TH"                                   
+TP1        Testpin                            TopLayer    T_TP-THT                2293.000      2933.000      0        "Testpin TH"                                   
+T10        T-Vishay-SI-1024X-N                TopLayer    SOTFL50P160X60-6N       3299.031      2784.905      180      "Dual N-Channel 20V (D-S)  MOSFET"             
+T8         T-Vishay-SI-1024X-N                TopLayer    SOTFL50P160X60-6N       2656.126      2167.260      0        "Dual N-Channel 20V (D-S)  MOSFET"             
+T7         DMP2022LSS-13                      TopLayer    SOIC127P600X173-8N      2934.551      2332.260      0        "p-channel MOSFET, DMP2022LSS-13"              
+T6         DTC043ZEBTL                        TopLayer    SOT-416FL               7743.685      1088.669      270      "Bias Resistor Build-in NPN Transistor"        
+T5         DTC043ZEBTL                        TopLayer    SOT-416FL               7221.669      701.685       180      "Bias Resistor Build-in NPN Transistor"        
+T4         DTC043ZEBTL                        TopLayer    SOT-416FL               8090.331      658.315       360      "Bias Resistor Build-in NPN Transistor"        
+T3         DTC043ZEBTL                        TopLayer    SOT-416FL               7451.772      1067.913      180      "Bias Resistor Build-in NPN Transistor"        
+T2         FDS6982AS                          TopLayer    SOIC127P600X173-8N      963.595       3512.024      180      "N-Channel PowerTrench SyncFET"                
+T1         FDS6982AS                          TopLayer    SOIC127P600X173-8N      1857.000      3512.000      0        "N-Channel PowerTrench SyncFET"                
+SW2        TD-03XB                            TopLayer    T_WMF_TD-03XB           2843.347      2721.205      180      "Push Button"                                  
+SW1        TD-03XB                            TopLayer    T_WMF_TD-03XB           6888.000      933.000       180      "Push Button"                                  
+RP1        10K*4                              TopLayer    CN4                     1827.750      4941.905      360      ÌùÆ¬ÅÅ×è                                           
+RA11       22R_5%_0603*4                      TopLayer    T_Resistor_Array_X4     5901.673      4012.795      360      ""                                             
+RA10       22R                                TopLayer    T_Resistor_Array_X4     6227.591      2630.748      0        "Resistor Array 22 R 63mW 5% 1206"             
+RA9        22R                                TopLayer    T_Resistor_Array_X4     6082.591      2729.252      0        "Resistor Array 22 R 63mW 5% 1206"             
+RA8        22R                                TopLayer    T_Resistor_Array_X4     6184.055      2862.205      0        "Resistor Array 22 R 63mW 5% 1206"             
+RA7        22R                                TopLayer    T_Resistor_Array_X4     6227.591      2389.252      0        "Resistor Array 22 R 63mW 5% 1206"             
+RA6        22R                                TopLayer    T_Resistor_Array_X4     6082.591      2505.748      0        "Resistor Array 22 R 63mW 5% 1206"             
+RA5        22R                                TopLayer    T_Resistor_Array_X4     6082.591      2290.252      0        "Resistor Array 22 R 63mW 5% 1206"             
+RA4        22R                                TopLayer    T_Resistor_Array_X4     6263.409      3749.252      360      "Resistor Array 22 R 63mW 5% 1206"             
+RA3        22R                                TopLayer    T_Resistor_Array_X4     5189.961      3063.976      180      "Resistor Array 22 R 63mW 5% 1206"             
+RA2        22R                                TopLayer    T_Resistor_Array_X4     5136.811      893.700       270      "Resistor Array 22 R 63mW 5% 1206"             
+RA1        22R                                TopLayer    T_Resistor_Array_X4     6242.126      3953.740      360      "Resistor Array 22 R 63mW 5% 1206"             
+R140       10K                                TopLayer    0805R                   3138.780      2720.472      270      "Resistor 100 Kohm 63mW 5% 0603"               
+R139       2K_5%_2010                         BottomLayer 2010                    8183.307      5109.252      360      ""                                             
+R138       2K_5%_2010                         BottomLayer 2010                    8312.992      5112.205      360      "Resistor 2 Kohm 500mW 5% 2010"                
+R137       2K_5%_2010                         BottomLayer 2010                    4235.236      5208.661      270      "Resistor 2 Kohm 500mW 5% 2010"                
+R136       2K_5%_2010                         BottomLayer 2010                    3975.394      5208.661      270      "Resistor 2 Kohm 500mW 5% 2010"                
+R135       100R                               BottomLayer T_RESC0603X30N          5431.102      123.031       180      "Resistor 120 ohm 63mW 5% 0603"                
+R134       100R                               TopLayer    T_RESC0603X30N          8070.000      4119.000      360      "Resistor 120 ohm 63mW 5% 0603"                
+R133       0R                                 TopLayer    T_RESC3216X760N         6252.000      3350.394      180      "Resistor 0 ohm 63mW 1% 1206"                  
+R132       0R                                 TopLayer    T_RESC3216X760N         5402.000      4236.000      270      "Resistor 0 ohm 63mW 1% 1206"                  
+R131       0R                                 TopLayer    T_RESC3216X760N         5809.000      4236.000      270      "Resistor 0 ohm 63mW 1% 1206"                  
+R130       0R                                 TopLayer    T_RESC3216X760N         6050.000      4236.000      270      "Resistor 0 ohm 63mW 1% 1206"                  
+R129       0R                                 TopLayer    T_RESC3216X760N         6246.000      4237.000      270      "Resistor 0 ohm 63mW 1% 1206"                  
+R128       1MR                                TopLayer    T_RESC0603X30N          7346.503      4862.163      90       "Resistor 1Mohm 63mW 5% 0603"                  
+R127       100K                               TopLayer    T_RESC0603X30N          6961.625      4690.493      360      "Resistor 100 Kohm 63mW 5% 0603"               
+R126       12K                                TopLayer    T_RESC0603X30N          7037.000      4964.000      270      "Resistor 12 Kohm 63mW 1% 0603"                
+R125       100K                               TopLayer    T_RESC0603X30N          6891.011      4580.163      180      "Resistor 100 Kohm 63mW 5% 0603"               
+R124       100K                               TopLayer    T_RESC0603X30N          6856.000      4630.000      180      "Resistor 100 Kohm 63mW 5% 0603"               
+R123       100K                               TopLayer    T_RESC0603X30N          6756.011      4667.163      270      "Resistor 100 Kohm 63mW 5% 0603"               
+R122       22R                                TopLayer    T_RESC0603X30N          6969.011      4564.163      90       "Resistor 22 ohm 63mW 5% 0603"                 
+R121       100K                               TopLayer    T_RESC0603X30N          6992.136      4641.281      180      "Resistor 100 Kohm 63mW 5% 0603"               
+R120       NA                                 TopLayer    T_RESC0603X30N          7640.000      5119.000      180      "Resistor NA 63mW  0603"                       
+R119       NA                                 TopLayer    T_RESC0603X30N          7582.000      5178.000      180      "Resistor NA 63mW  0603"                       
+R118       NA                                 TopLayer    T_RESC0603X30N          7523.543      5119.000      180      "Resistor NA 63mW  0603"                       
+R117       100K                               TopLayer    T_RESC0603X30N          7989.173      4777.559      180      "Resistor 100 Kohm 63mW 5% 0603"               
+R116       NA                                 BottomLayer T_RESC0603X30N          7921.457      5110.000      0        "Resistor NA 63mW  0603"                       
+R115       NA                                 BottomLayer T_RESC0603X30N          7977.000      5175.000      0        "Resistor NA 63mW  0603"                       
+R114       NA                                 BottomLayer T_RESC0603X30N          8035.543      5110.000      0        "Resistor NA 63mW  0603"                       
+R113       100K                               TopLayer    T_RESC0603X30N          7723.000      5011.000      90       "Resistor 100 Kohm 63mW 5% 0603"               
+R112       10K                                BottomLayer T_RESC0603X30N          5257.874      1214.567      360      "Resistor 10 Kohm 63mW 5% 0603"                
+R111       68K                                BottomLayer T_RESC0603X30N          5117.000      1189.000      90       "Resistor 68 Kohm 63mW 5% 0603"                
+R110       68K                                BottomLayer T_RESC0603X30N          5178.000      1189.000      90       "Resistor 68 Kohm 63mW 5% 0603"                
+R109       68K                                BottomLayer T_RESC0603X30N          4419.000      1189.000      90       "Resistor 68 Kohm 63mW 5% 0603"                
+R108       68K                                BottomLayer T_RESC0603X30N          4493.000      1189.000      90       "Resistor 68 Kohm 63mW 5% 0603"                
+R107       68K                                BottomLayer T_RESC0603X30N          4557.000      1189.000      90       "Resistor 68 Kohm 63mW 5% 0603"                
+R106       68K                                BottomLayer T_RESC0603X30N          4674.000      1189.000      90       "Resistor 68 Kohm 63mW 5% 0603"                
+R105       68K                                BottomLayer T_RESC0603X30N          4964.000      1189.000      90       "Resistor 68 Kohm 63mW 5% 0603"                
+R104       68K                                BottomLayer T_RESC0603X30N          5059.055      1188.976      90       "Resistor 68 Kohm 63mW 5% 0603"                
+R103       33K                                BottomLayer T_RESC0603X30N          4615.000      1189.000      90       "Resistor 33 Kohm 63mW 5% 0603"                
+R102       22R                                TopLayer    T_RESC0603X30N          5202.000      1862.000      180      "Resistor 22 ohm 63mW 5% 0603"                 
+R101       22R                                TopLayer    T_RESC0603X30N          5200.000      1806.000      180      "Resistor 22 ohm 63mW 5% 0603"                 
+R100       100K                               TopLayer    t_RESC0603X30N          3457.000      3472.000      90       "Resistor 100 Kohm 63mW 5% 0603"               
+R99        1.8K                               TopLayer    T_RESC0603X30N          3479.000      3139.000      270      "Resistor 1.8 Kohm 63mW 5% 0603"               
+R98        1.8K                               TopLayer    T_RESC0603X30N          3580.000      3139.000      270      "Resistor 1.8 Kohm 63mW 5% 0603"               
+R97        10R                                TopLayer    t_RESC0603X30N          3581.000      3720.000      360      "Resistor 10 ohm 63mW 5% 0603"                 
+R96        470R                               TopLayer    T_RESC0603X30N          3726.000      3649.000      180      "Resistor 470 ohm 63mW 5% 0603"                
+R95        4.7K                               TopLayer    t_RESC0603X30N          6462.598      3086.614      270      "Resistor 4.7 Kohm 63mW 5% 0603"               
+R93        4.7K                               TopLayer    t_RESC0603X30N          6624.000      2938.976      270      "Resistor 4.7 Kohm 63mW 5% 0603"               
+R91        4.7K                               TopLayer    t_RESC0603X30N          5185.039      3560.039      360      "Resistor 4.7 Kohm 63mW 5% 0603"               
+R90        0R                                 TopLayer    T_RESC0603X30N          2507.976      2167.283      180      "Resistor 0 ohm 63mW 1% 0603"                  
+R89        100K                               TopLayer    T_RESC0603X30N          2657.976      2252.260      180      "Resistor 100 Kohm 63mW 5% 0603"               
+R88        100K                               TopLayer    T_RESC0603X30N          2659.433      2307.260      180      "Resistor 100 Kohm 63mW 5% 0603"               
+R87        100K                               TopLayer    T_RESC0603X30N          3239.347      2713.905      180      "Resistor 100 Kohm 63mW 5% 0603"               
+R86        120R                               TopLayer    T_RESC0603X30N          3093.347      2882.905      180      "Resistor 120 ohm 63mW 5% 0603"                
+R85        0R                                 TopLayer    T_RESC0603X30N          1689.594      3674.000      180      "Resistor 0 ohm 63mW 1% 0603"                  
+R84        10K                                TopLayer    T_RESC0603X30N          2276.000      3115.906      180      "Resistor 10 Kohm 63mW 5% 0603"                
+R83        15mR                               TopLayer    RESC3316X76N            1179.000      3295.000      270      "Resistor 15 mohm 250mW 1% 1206"               
+R82        0R                                 TopLayer    T_RESC3216X760N         6252.000      3046.000      180      "Resistor 0 ohm 330mW 1% 1206"                 
+R81        1K                                 TopLayer    T_RESC0603X30N          209.646       4330.000      90       "Resistor 1 Kohm 63mW 5% 0603"                 
+R80        220R                               TopLayer    T_RESC0603X30N          694.000       4354.000      180      "Resistor 220 ohm 63mW 5% 0603"                
+R79        120R                               TopLayer    T_RESC0603X30N          919.000       4319.000      90       "Resistor 120 ohm 63mW 5% 0603"                
+R78        120R                               TopLayer    T_RESC0603X30N          451.000       4330.000      90       "Resistor 120 ohm 63mW 5% 0603"                
+R77        63.4KR                             BottomLayer T_RESC0603X30N          7712.937      932.000       180      "Resistor 63.4 Kohm  1% 0603"                  
+R76        34KR                               BottomLayer T_RESC0603X30N          7634.378      871.000       270      "Resistor 34 Kohm 63mW 1% 0603"                
+R75        10K                                BottomLayer T_RESC0603X30N          7391.693      886.000       90       "Resistor 10 Kohm 63mW 5% 0603"                
+R74        0R                                 BottomLayer T_RESC0603X30N          7713.378      764.000       360      "Resistor 0 ohm 63mW 1% 0603"                  
+R72        4.7K                               BottomLayer t_RESC0603X30N          8148.512      517.717       90       "Resistor 4.7 Kohm 63mW 5% 0603"               
+R71        100K                               BottomLayer T_RESC0603X30N          7838.000      939.622       360      "Resistor 100 Kohm 63mW 5% 0603"               
+R70        51K                                BottomLayer T_RESC0603X30N          8160.000      896.000       90       "Resistor 51K ohm  5% 0603"                    
+R69        51K                                BottomLayer T_RESC0603X30N          7959.000      936.622       180      "Resistor 51K ohm  5% 0603"                    
+R68        51K                                BottomLayer T_RESC0603X30N          8080.709      579.724       270      "Resistor 51K ohm  5% 0603"                    
+R67        51K                                BottomLayer T_RESC0603X30N          7885.827      596.457       180      "Resistor 51K ohm  5% 0603"                    
+R66        47K                                BottomLayer T_RESC0603X30N          8311.024      355.315       90       "Resistor 47 Kohm 63mW 5% 0603"                
+R65        10K                                BottomLayer T_RESC0603X30N          7495.000      323.819       90       "Resistor 10 Kohm 63mW 5% 0603"                
+R63        22R                                BottomLayer T_RESC0603X30N          7722.000      284.000       90       "Resistor 22 ohm 63mW 5% 0603"                 
+R62        22R                                BottomLayer T_RESC0603X30N          7835.000      322.000       90       "Resistor 22 ohm 63mW 5% 0603"                 
+R61        1K                                 TopLayer    T_RESC0603X30N          7745.000      1184.370      90       "Resistor 1 Kohm 63mW 5% 0603"                 
+R60        0R                                 TopLayer    T_RESC0603X30N          7172.000      306.000       0        "Resistor 0 ohm 63mW 1% 0603"                  
+R59        0R                                 TopLayer    T_RESC0603X30N          8326.772      816.929       360      "Resistor 0 ohm 63mW 1% 0603"                  
+R58        10K                                TopLayer    T_RESC0603X30N          6597.000      1027.000      360      "Resistor 10 Kohm 63mW 5% 0603"                
+R57        120R                               TopLayer    T_RESC0603X30N          7291.339      1049.213      180      "Resistor 120 ohm 63mW 5% 0603"                
+R56        430R                               TopLayer    0805R                   1450.000      4617.000      270      ÌùÆ¬µç×è                                           
+R55        430R                               TopLayer    0805R                   1452.000      4955.000      270      ÌùÆ¬µç×è                                           
+R54        10K                                TopLayer    0805R                   953.000       4636.000      270      ÌùÆ¬µç×è                                           
+R53        10K                                TopLayer    0805R                   953.000       4994.000      270      ÌùÆ¬µç×è                                           
+R52        430R                               TopLayer    0805R                   1486.000      4490.000      180      ÌùÆ¬µç×è                                           
+R51        430R                               TopLayer    0805R                   1487.000      4813.000      180      ÌùÆ¬µç×è                                           
+R50        3K                                 BottomLayer 1206                    1131.890      5197.834      180      ÌùÆ¬µç×è                                           
+R49        3K                                 TopLayer    1206                    652.559       5212.000      360      ÌùÆ¬µç×è                                           
+R48        4.7K                               TopLayer    0603R                   2970.000      4596.000      270      ÌùÆ¬µç×è                                           
+R47        3K                                 BottomLayer 2010                    2944.882      5208.661      90       ÌùÆ¬µç×è                                           
+R46        4.7K                               TopLayer    0603R                   3518.000      4382.000      180      ÌùÆ¬µç×è                                           
+R45        4.7K                               TopLayer    0603R                   3518.000      4124.000      180      ÌùÆ¬µç×è                                           
+R44        4.7K                               TopLayer    0603R                   3764.000      4266.000      90       ÌùÆ¬µç×è                                           
+R43        10K                                TopLayer    T_RESC0603X30N          1349.000      3704.457      270      "Resistor 10 Kohm 63mW 1% 0603"                
+R42        100K                               TopLayer    T_RESC0603X30N          1233.594      3634.000      90       "Resistor 100 Kohm 63mW 5% 0603"               
+R41        4.7R                               TopLayer    RESC1005X40N            1175.000      3510.000      90       "Resistor 4.7 ohm 63mW 5% 0402"                
+R40        0R                                 TopLayer    T_RESC0603X30N          1170.000      3647.000      270      "Resistor 0 ohm 63mW 1% 0603"                  
+R39        4.7K                               TopLayer    0603R                   3762.000      4010.000      90       ÌùÆ¬µç×è                                           
+R38        6.2K                               TopLayer    RESC1005X40N            1517.232      3687.417      270      "Resistor 6.2 Kohm 63mW 1% 0402"               
+R37        15mR                               TopLayer    RESC3316X76N            1598.594      3259.000      270      "Resistor 15 mohm 250mW 1% 1206"               
+R36        0R                                 TopLayer    T_RESC0603X30N          1574.000      3588.000      270      "Resistor 0 ohm 63mW 1% 0603"                  
+R35        100K                               TopLayer    T_RESC0603X30N          1474.000      3717.000      270      "Resistor 100 Kohm 63mW 5% 0603"               
+R34        4.7R                               TopLayer    RESC1005X40N            1411.000      3316.000      90       "Resistor 4.7 ohm 63mW 5% 0402"                
+R33        4.7R                               TopLayer    RESC1005X40N            1636.000      3452.000      270      "Resistor 4.7 ohm 63mW 5% 0402"                
+R32        4.7K                               TopLayer    0603R                   2713.000      4596.000      270      ÌùÆ¬µç×è                                           
+R31        3K                                 BottomLayer 2010                    2678.150      5208.661      90       ÌùÆ¬µç×è                                           
+R30        4.7K                               TopLayer    0603R                   2456.000      4596.000      270      ÌùÆ¬µç×è                                           
+R29        3K                                 BottomLayer 2010                    2416.339      5208.661      90       ÌùÆ¬µç×è                                           
+R28        4.7K                               TopLayer    0603R                   2183.000      4596.000      270      ÌùÆ¬µç×è                                           
+R27        3K                                 BottomLayer 2010                    2165.354      5208.661      90       ÌùÆ¬µç×è                                           
+R26        4.7K                               BottomLayer 0603R                   1989.480      4558.504      270      ÌùÆ¬µç×è                                           
+R25        4.7K                               TopLayer    0603R                   3737.000      4596.000      270      ÌùÆ¬µç×è                                           
+R24        3K                                 BottomLayer 2010                    1885.827      5208.661      90       ÌùÆ¬µç×è                                           
+R23        3K                                 BottomLayer 2010                    3720.472      5208.661      90       ÌùÆ¬µç×è                                           
+R22        4.7K                               BottomLayer 0603R                   1720.063      4562.441      270      ÌùÆ¬µç×è                                           
+R21        4.7K                               TopLayer    0603R                   3486.000      4596.000      270      ÌùÆ¬µç×è                                           
+R20        3K                                 BottomLayer 2010                    1640.748      5208.661      90       ÌùÆ¬µç×è                                           
+R19        3K                                 BottomLayer 2010                    3474.409      5208.661      90       ÌùÆ¬µç×è                                           
+R18        4.7K                               BottomLayer 0603R                   1435.024      4564.441      270      ÌùÆ¬µç×è                                           
+R17        4.7K                               TopLayer    0603R                   3227.000      4596.000      270      ÌùÆ¬µç×è                                           
+R16        3K                                 BottomLayer 2010                    1371.063      5208.661      90       ÌùÆ¬µç×è                                           
+R15        3K                                 BottomLayer 2010                    3195.866      5208.661      90       ÌùÆ¬µç×è                                           
+R14        0R                                 TopLayer    T_RESC0603X30N          7747.995      3183.205      90       "Resistor 0 ohm 63mW 1% 0603"                  
+R13        0R                                 TopLayer    T_RESC0603X30N          7862.998      3183.205      90       "Resistor 0 ohm 63mW 1% 0603"                  
+R12        0R                                 TopLayer    T_RESC0603X30N          7978.000      3183.205      90       "Resistor 0 ohm 63mW 1% 0603"                  
+R11        0R                                 TopLayer    T_RESC0603X30N          7632.993      3183.205      90       "Resistor 0 ohm 63mW 1% 0603"                  
+R10        150R                               TopLayer    t_RESC0603X30N          8468.457      3243.000      360      "Resistor 150 ohm 63mW 1% 0603"                
+R9         150R                               TopLayer    t_RESC0603X30N          8381.000      4119.000      0        "Resistor 150 ohm 63mW 1% 0603"                
+R8         120R                               TopLayer    T_RESC0603X30N          7823.000      1889.543      270      "Resistor 120 ohm 250mW 5% 0603"               
+R7         0R                                 TopLayer    T_RESC0603X30N          7708.000      2027.040      180      "Resistor 0 ohm 63mW 1% 0603"                  
+R6         120R                               TopLayer    T_RESC0603X30N          6682.087      1795.276      270      "Resistor 100 Kohm 63mW 5% 0603"               
+R5         120R                               TopLayer    T_RESC0603X30N          6782.480      1200.787      90       "Resistor 100 Kohm 63mW 5% 0603"               
+R4         120R                               TopLayer    T_RESC0603X30N          7823.000      1407.000      270      "Resistor 120 ohm 250mW 5% 0603"               
+R3         120R                               TopLayer    T_RESC0603X30N          6685.039      1201.772      270      "Resistor 100 Kohm 63mW 5% 0603"               
+R2         120R                               TopLayer    T_RESC0603X30N          6781.496      1795.276      90       "Resistor 100 Kohm 63mW 5% 0603"               
+R1         0R                                 TopLayer    T_RESC0603X30N          7708.000      1549.040      180      "Resistor 0 ohm 63mW 1% 0603"                  
+Q4         STD10PF06                          TopLayer    DPAK                    669.339       4642.606      360      "P-Channel MOSFET"                             
+Q3         STD10PF06                          TopLayer    DPAK                    671.000       4955.000      360      "P-Channel MOSFET"                             
+Q2         8050                               TopLayer    SOT-23M                 3366.000      4399.000      0        ÌùÆ¬Èý¼«¹Ü                                          
+Q1         8050                               TopLayer    SOT-23M                 3366.000      4130.000      0        ÌùÆ¬Èý¼«¹Ü                                          
+P16        1473567-4                          TopLayer    147-4                   6974.690      5549.150      90       Ì©¿Æ4p¶Ë×Ó                                         
+P15        1473567-4                          TopLayer    147-4                   8015.748      5548.228      90       Ì©¿Æ4p¶Ë×Ó                                         
+P14        2-406549-4                         TopLayer    RJ45¿¨¿Ú³¯ÉÏ                8305.000      2821.000      90       Íø¿Ú                                             
+P13        ""                                 TopLayer    2.54*3P                 7678.000      2589.000      180      "Header, 3-Pin"                                
+P12        1473567-4                          TopLayer    147-4                   5933.633      5548.228      90       Ì©¿Æ4P¶Ë×Ó                                         
+P11        1473567-4                          TopLayer    147-4                   4892.576      5548.402      90       Ì©¿Æ4P¶Ë×Ó                                         
+P10        3-2229803-1                        TopLayer    3-2229803-1             468.323       1705.764      270      Ì©¿ÆµçÔ´¶Ë×Ó×ù                                        
+P9         3-2229803-1                        TopLayer    3-2229803-1             467.520       2639.764      270      Ì©¿ÆµçÔ´¶Ë×Ó×ù                                        
+P8         3-2229803-1                        TopLayer    3-2229803-1             468.504       771.654       270      Ì©¿ÆµçÔ´¶Ë×Ó×ù                                        
+P7         3-2172091-2                        TopLayer    M12Íä½Ç×ù                  8330.213      4564.315      90       Ì©¿ÆM8¶Ë×Ó                                         
+P6         1473567-4                          TopLayer    147-4                   728.346       5548.228      90       Ì©¿Æ4p¶Ë×Ó                                         
+P5         1473567-4                          TopLayer    147-4                   1769.404      5548.402      90       Ì©¿Æ4p¶Ë×Ó                                         
+P4         1473567-4                          TopLayer    147-4                   3851.518      5548.402      90       Ì©¿Æ4P¶Ë×Ó                                         
+P3         1473567-4                          TopLayer    147-4                   2810.461      5548.402      90       Ì©¿Æ4P¶Ë×Ó                                         
+P2         2-406549-4                         TopLayer    RJ45¿¨¿Ú³¯ÉÏ                8305.000      2051.000      90       Íø¿Ú                                             
+P1         2-406549-4                         TopLayer    RJ45¿¨¿Ú³¯ÉÏ                8305.000      1303.000      90       Íø¿Ú                                             
+OSC2       HEX24-24000MHz-18-50R-F-H2-T2-W2-T TopLayer    SMD-5032_2P             7239.010      4878.163      90       "Quartz 24.0 MHz"                              
+OSC1       CC4V-T1A                           TopLayer    SMD-3215-2P             3249.000      3351.000      90       "Quartz 32.768kHz"                             
+LED9       "LS T670-K1L2-1"                   TopLayer    LC-0805_LED_S3          3229.346      2884.905      180      "LED red, Osram LS T670-K1L2-1"                
+LED8       LEDºì                               TopLayer    LC-0805_LED_S3          7841.000      1174.000      270      0805LEDÂÌ                                       
+LED7       LEDºì                               TopLayer    LC-0805_LED_S3          7190.945      1006.890      90       0805LEDÂÌ                                       
+LED6       LEDÂÌ                               TopLayer    LC-0805_LED_S3          1130.692      5221.457      180      0805LEDÂÌ                                       
+LED5       LEDÂÌ                               TopLayer    LC-0805_LED_S3          872.000       5221.457      180      0805LEDÂÌ                                       
+LED4       LEDÂÌ                               TopLayer    LC-0805_LED_S3          6683.071      1652.575      90       0805LEDÂÌ                                       
+LED3       LEDºì                               TopLayer    LC-0805_LED_S3          6783.465      1334.646      270      0805LEDÂÌ                                       
+LED2       LEDÂÌ                               TopLayer    LC-0805_LED_S3          6683.071      1334.646      270      0805LEDÂÌ                                       
+LED1       LEDºì                               TopLayer    LC-0805_LED_S3          6783.464      1652.575      90       0805LEDÂÌ                                       
+L21        4.7uH                              TopLayer    T_INDM102102X45N        772.000       3869.000      0        "Inductance 4.7uH 6.2A 20%"                    
+L20        8.2uH                              TopLayer    T_INDM120120X80N        2053.000      3905.000      0        "Inductance 8.2uH 6.25A 20%"                   
+L19        36R@100MHz                         TopLayer    T_Laird_35F0121-0SR-10  3507.000      1256.000      360      "Power Supply FB 10A"                          
+L18        220R@100MHz                        TopLayer    INDC1608X95N            5881.000      963.000       90       "220R@100MHz 2A EMI FILTER"                    
+L17        220R@100MHz                        BottomLayer INDC1608X95N            7396.693      748.000       270      "220R@100MHz 2A EMI FILTER"                    
+L16        90R@100MHz                         TopLayer    T_Murata_DLW21SN900SQ2  6886.000      457.000       360      "Common Mode Choke High Speed 90R 330mA"       
+L15        90R@100MHz                         TopLayer    T_Murata_DLW21SN900SQ2  6685.039      5123.709      90       "Common Mode Choke High Speed 90R 330mA"       
+L13        90R@100MHz                         TopLayer    T_Murata_DLW21SN900SQ2  6993.110      5118.110      90       "Common Mode Choke High Speed 90R 330mA"       
+L11        90R@100MHz                         TopLayer    T_Murata_DLW21SN900SQ2  6798.228      5118.110      90       "Common Mode Choke High Speed 90R 330mA"       
+L10        220R@100MHz                        BottomLayer INDC1608X95N            7277.197      5231.567      360      "220R@100MHz 2A EMI FILTER"                    
+L9         220R@100MHz                        BottomLayer INDC1608X95N            4782.480      1272.638      180      "220R@100MHz 2A EMI FILTER"                    
+L8         220R@100MHz                        TopLayer    INDC1608X95N            4229.331      4566.929      360      "220R@100MHz 2A EMI FILTER"                    
+L7         36R@100MHz                         TopLayer    T_Laird_35F0121-0SR-10  786.417       2018.701      270      "Power Supply FB 10A"                          
+L6         36R@100MHz                         TopLayer    T_Laird_35F0121-0SR-10  944.882       2952.756      90       "Power Supply FB 10A"                          
+L5         90R@100MHz                         BottomLayer T_Murata_DLW21SN900SQ2  8407.480      500.000       360      "Common Mode Choke High Speed 90R 330mA"       
+L4         220R@100MHz                        TopLayer    INDC1608X95N            7220.472      1203.740      360      "220R@100MHz 2A EMI FILTER"                    
+L3         220R@100MHz                        TopLayer    INDC1608X95N            3954.803      5023.024      90       "220R@100MHz 2A EMI FILTER"                    
+L2         220R@100MHz                        TopLayer    INDC1608X95N            7597.000      3042.000      0        "220R@100MHz 2A EMI FILTER"                    
+L1         220R@100MHz                        TopLayer    INDC1608X95N            6776.575      2116.142      360      "220R@100MHz 2A EMI FILTER"                    
+J2         ECT818000117                       TopLayer    IPEX2                   6908.000      130.964       90       "Generic Antenna"                              
+J1         ECT818000117                       TopLayer    IPEX2                   8584.878      812.000       180      "Generic Antenna"                              
+IC32       USB2514B                           TopLayer    T_SMSC_USB2514B-AEZC    6871.063      4868.110      270      "4 Port USB HUB"                               
+IC30       ADM3485EARZ                        TopLayer    LC-SOIC-8_150mil        7580.000      4929.000      360      "ADM3485EARZ RS-485/RS-422 transceiver"        
+IC28       ADuM1301ARW                        TopLayer    T_AD_ADuM1300ARW        7681.000      4470.000      90       "Digital Isolator"                             
+IC27       ADM3485EARZ                        BottomLayer LC-SOIC-8_150mil        7977.559      4913.386      180      "ADM3485EARZ RS-485/RS-422 transceiver"        
+IC26       "="Manufacturer part No.""         TopLayer    T_ST_M74HC02TTR         7911.000      4926.000      360      "Quad 2-Input NOR Gate"                        
+IC25       ADuM1301ARW                        BottomLayer T_AD_ADuM1300ARW        7890.748      4469.488      90       "Digital Isolator"                             
+IC24       MAX3232EUE                         TopLayer    LC-TSSOP-16             7326.000      2632.000      270      RS232                                          
+IC23       M41T0M6                            TopLayer    SOIC127P600X173-8N      3475.000      3304.000      0        "RTC M41T0M6"                                  
+IC22       MAX3232EUE                         TopLayer    LC-TSSOP-16             6225.000      5093.441      270      RS232                                          
+IC21       ADuM1402ARWZ                       TopLayer    T_AD_ADuM1300ARW        6264.000      4659.000      90       "Digital Isolator"                             
+IC20       MAX3232EUE                         TopLayer    LC-TSSOP-16             5703.333      5093.441      270      RS232                                          
+IC19       ADuM1402ARWZ                       TopLayer    T_AD_ADuM1300ARW        5710.000      4659.000      90       "Digital Isolator"                             
+IC18       "="Manucfacturer Part NO.""        TopLayer    QFN50P900X900X90_HS-65N 6690.000      3268.000      90       "Single-Chip USB To Quad UART Bridge"          
+IC16       MAX3232EUE                         TopLayer    LC-TSSOP-16             5102.549      5094.425      270      RS232                                          
+IC15       ADuM1402ARWZ                       TopLayer    T_AD_ADuM1300ARW        5134.000      4659.000      90       "Digital Isolator"                             
+IC14       MAX3232EUE                         TopLayer    LC-TSSOP-16             4588.882      5094.441      270      RS232                                          
+IC13       ADuM1402ARWZ                       TopLayer    T_AD_ADuM1300ARW        4599.000      4659.000      90       "Digital Isolator"                             
+IC12       "="Manucfacturer Part NO.""        TopLayer    QFN50P900X900X90_HS-65N 6690.000      2689.000      360      "Single-Chip USB To Quad UART Bridge"          
+IC11       NCV4264-2ST50T3G                   TopLayer    T_ON_NCV4264-2ST50T3G   2281.000      3296.402      0        "NCV4264-2ST50T3G LDO Regulator"               
+IC10       "="Manufacturer Part No.""         BottomLayer LC-SOT-23-5             7519.378      880.000       180      "LDO Input: 2.5V to 5.5V Output:1.2V to 5V"    
+IC9        "="Manufacturer Part No.""         BottomLayer LC-TSSOP-20             7977.000      776.307       90       "8-Bit Bidirectional Voltage-level Translator" 
+IC6        ADuM1400ARWZ                       BottomLayer T_AD_ADuM1300ARW        7358.000      4245.000      270      "Digital Isolator 4IN"                         
+IC5        TPS51120                           TopLayer    QFN50P500X500X100-33N   1413.594      3499.000      270      "Power Supply Controller"                      
+IC3        MCP2551T-I/SN                      TopLayer    SOIC127P600X173-8N      7630.000      1887.000      0        "High speed CAN Transceiver"                   
+IC2        ADuM1402ARWZ                       TopLayer    T_AD_ADuM1300ARW        7144.000      1495.040      360      "Digital Isolator"                             
+IC1        MCP2551T-I/SN                      TopLayer    SOIC127P600X173-8N      7629.921      1409.646      0        "High speed CAN Transceiver"                   
+FU2        FUSE/3A                            TopLayer    FUSE-1808-3A            845.000       2410.000      90       ÌùÆ¬3A±£ÏÕ                                         
+FU1        FUSE/15A                           TopLayer    FUSE-1808-3A            1938.000      2990.000      360      ÌùÆ¬15A±£ÏÕ                                        
+F1         21612.5P                           TopLayer    RAD0.3                  788.000       161.000       90       Ö±²å12.5A±£ÏÕË¿                                     
+E3         1000uF/35V/ZLH                     TopLayer    5*13                    2884.000      1693.000      0        ²å×°µç½âµçÈÝ                                         
+E2         470uF/35V/ZLH                      TopLayer    RB0.3                   1062.992      1765.748      270      ²å×°µç½âµçÈÝ                                         
+E1         220uF-100V-RB0.3                   TopLayer    5*13                    1809.000      309.000       0        "Capacitor TA"                                 
+DO2        LEDÂÌ                               TopLayer    LC-0805_LED_S3          1547.000      4661.000      90       0805LEDÂÌ                                       
+DO1        LEDÂÌ                               TopLayer    LC-0805_LED_S3          1548.000      5004.000      90       0805LEDÂÌ                                       
+DI14       LEDÂÌ                               TopLayer    LC-0805_LED_S3          2943.487      5221.457      180      0805LEDÂÌ                                       
+DI13       LEDÂÌ                               TopLayer    LC-0805_LED_S3          2686.743      5221.457      180      0805LEDÂÌ                                       
+DI12       LEDÂÌ_0805                          TopLayer    LC-0805_LED_S3          8187.992      5126.968      270      0805LEDÂÌ                                       
+DI11       LEDÂÌ                               TopLayer    LC-0805_LED_S3          2430.000      5221.457      180      0805LEDÂÌ                                       
+DI10       LEDÂÌ_0805                          TopLayer    LC-0805_LED_S3          8312.992      5126.968      270      0805LEDÂÌ                                       
+DI9        LEDÂÌ_0805                          TopLayer    LC-0805_LED_S3          4235.000      5221.457      180      0805LEDÂÌ                                       
+DI8        LEDÂÌ_0805                          TopLayer    LC-0805_LED_S3          3975.394      5221.457      180      0805LEDÂÌ                                       
+DI7        LEDÂÌ                               TopLayer    LC-0805_LED_S3          2162.000      5221.457      180      0805LEDÂÌ                                       
+DI6        LEDÂÌ                               TopLayer    LC-0805_LED_S3          1905.333      5221.457      180      0805LEDÂÌ                                       
+DI5        LEDÂÌ                               TopLayer    LC-0805_LED_S3          3721.666      5221.457      180      0805LEDÂÌ                                       
+DI4        LEDÂÌ                               TopLayer    LC-0805_LED_S3          1648.667      5221.457      180      0805LEDÂÌ                                       
+DI3        LEDÂÌ                               TopLayer    LC-0805_LED_S3          3465.000      5221.457      180      0805LEDÂÌ                                       
+DI2        LEDÂÌ                               TopLayer    LC-0805_LED_S3          1392.000      5221.457      180      0805LEDÂÌ                                       
+DI1        LEDÂÌ                               TopLayer    LC-0805_LED_S3          3200.230      5221.457      180      0805LEDÂÌ                                       
+D35        PTVSHC3D12VU                       BottomLayer LC-SOD-323              7102.643      5249.016      360      "TVS Diode"                                    
+D34        PTVSHC3D12VU                       BottomLayer LC-SOD-323              6872.047      5249.016      180      "TVS Diode"                                    
+D33        PTVSHC3D12VU                       BottomLayer LC-SOD-323              6560.039      5249.016      180      "TVS Diode"                                    
+D32        ESD9L5.0ST5G                       TopLayer    LC-SOD-923              6707.000      5204.000      360      "TVS Diode"                                    
+D31        ESD9L5.0ST5G                       TopLayer    LC-SOD-923              6650.000      5251.000      180      "TVS Diode"                                    
+D30        ESD9L5.0ST5G                       TopLayer    LC-SOD-923              7015.000      5204.000      0        "TVS Diode"                                    
+D29        ESD9L5.0ST5G                       TopLayer    LC-SOD-923              6957.677      5251.968      180      "TVS Diode"                                    
+D28        ESD9L5.0ST5G                       TopLayer    LC-SOD-923              6820.000      5203.000      360      "TVS Diode"                                    
+D27        ESD9L5.0ST5G                       TopLayer    LC-SOD-923              6761.811      5251.968      180      "TVS Diode"                                    
+D26        BAT54                              TopLayer    SOT95P230X110-3N        3571.000      3599.000      270      "BAT54 Schottky Diode"                         
+D25        BAT54                              TopLayer    SOT95P230X110-3N        3717.598      3532.724      270      "BAT54 Schottky Diode"                         
+D24        LEDºì                               TopLayer    LC-0805_LED_S3          135.000       4316.039      90       0805LEDºì                                       
+D23        LEDºì                               TopLayer    LC-0805_LED_S3          583.921       4316.039      90       0805LEDºì                                       
+D22        LEDºì                               TopLayer    LC-0805_LED_S3          821.110       4316.039      90       0805LEDºì                                       
+D21        LEDºì                               TopLayer    LC-0805_LED_S3          367.000       4316.039      90       0805LEDºì                                       
+D20        "="Manufacturer Part No.""         TopLayer    T_VISHAY_MBRB735PBF     1206.961      2379.000      90       "MBRB735PBF Schottky Diode"                    
+D19        MBRB735PBF                         TopLayer    T_VISHAY_MBRB735PBF     1853.000      2379.000      90       "MBRB735PBF Schottky Diode"                    
+D12        LL4148                             TopLayer    3216                    2946.000      5044.000      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D11        LL4148                             TopLayer    3216                    3086.000      4319.000      270      Diode                                          
+D10        LL4148                             TopLayer    3216                    3091.000      4064.000      270      Diode                                          
+D9         LL4148                             TopLayer    3216                    2693.000      5044.000      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D8         LL4148                             TopLayer    3216                    2440.000      5043.000      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D7         LL4148                             TopLayer    3216                    2159.000      5043.000      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D6         LL4148                             BottomLayer 3216                    2024.480      5010.504      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D5         LL4148                             TopLayer    3216                    3731.000      5044.000      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D4         LL4148                             BottomLayer 3216                    1741.063      5014.441      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D3         LL4148                             TopLayer    3216                    3469.000      5044.000      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D2         LL4148                             BottomLayer 3216                    1455.024      5014.441      90       ÌùÆ¬¶þ¼«¹Ü                                          
+D1         LL4148                             TopLayer    3216                    3199.000      5044.000      90       ÌùÆ¬¶þ¼«¹Ü                                          
+C167       100nF                              TopLayer    T_CAPC0603X33N          2568.347      2771.150      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C166       100nF                              BottomLayer T_CAPC0603X33N          5433.606      73.622        180      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C165       100nF                              TopLayer    T_CAPC0603X33N          8183.000      4119.492      180      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C164       100nf-50V-10%-0603-X7R             TopLayer    T_CAPC0603X33N          888.000       2099.000      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C163       1uf-100V-10%-1210                  TopLayer    1210                    1439.000      947.000       270      33pf-50V-5%-0603                               
+C162       1uF                                TopLayer    T_CAPC0603X33N          7139.011      4943.850      270      "Capacitor Ceramic X5R 1uF 16V 20% 0603"       
+C161       100nF                              TopLayer    T_CAPC0603X33N          7089.011      4943.850      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C160       33pF                               TopLayer    T_CAPC0603X33N          7346.011      4749.163      90       "Capacitor Ceramic NP0 33pF 25V 10% 0603"      
+C159       1uF                                TopLayer    T_CAPC0603X33N          6643.325      4854.874      0        "Capacitor Ceramic X5R 1uF 16V 20% 0603"       
+C158       100nF                              TopLayer    T_CAPC0603X33N          6642.869      4905.541      0        "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C157       33pF                               TopLayer    T_CAPC0603X33N          7346.011      4976.163      270      "Capacitor Ceramic NP0 33pF 25V 10% 0603"      
+C156       1uF                                TopLayer    T_CAPC0603X33N          6665.963      5012.541      360      "Capacitor Ceramic X5R 1uF 16V 20% 0603"       
+C155       100nF                              TopLayer    T_CAPC0603X33N          6873.011      5071.163      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C154       100nF                              TopLayer    T_CAPC0603X33N          6666.963      4960.541      360      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C153       100nF                              TopLayer    T_CAPC0603X33N          7033.475      4745.612      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C152       100nF                              TopLayer    T_CAPC0603X33N          7116.011      5022.163      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C151       100nF                              TopLayer    T_CAPC0603X33N          6835.000      4693.000      0        "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C150       100nF                              TopLayer    T_CAPC0603X33N          6644.357      4804.207      0        "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C149       4.7uF                              TopLayer    T_CAPC0603X33N          6644.357      4753.541      0        "Capacitor Ceramic X5R 4.7uF 6.3V 20% 0603"    
+C148       100nF                              BottomLayer T_CAPC0603X33N          7408.197      5232.567      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C147       100nF                              TopLayer    T_CAPC0603X33N          7528.000      4740.000      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C146       100nF                              TopLayer    T_CAPC0603X33N          7529.000      4201.000      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C145       1uF                                BottomLayer T_CAPMP3216X180N        7689.000      4875.000      90       "Capacitor TA 1uF 16V 10% 3216"                
+C144       4.7uF                              BottomLayer T_CAPMP3216X180N        7270.000      5161.000      180      "Capacitor TA 4.7uF 16V 10% 3216"              
+C143       100nF                              BottomLayer T_CAPC0603X33N          8033.000      4737.000      0        "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C142       100nF                              BottomLayer T_CAPC0603X33N          8035.000      4188.000      0        "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C141       100nF                              TopLayer    T_CAPC0603X33N          7133.000      2554.000      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C140       100nF                              TopLayer    T_CAPC0603X33N          7320.866      2789.370      180      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C139       100nF                              TopLayer    T_CAPC0603X33N          7077.000      2625.000      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C138       100nF                              TopLayer    T_CAPC0603X33N          7131.000      2713.512      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C137       100nF                              TopLayer    T_CAPC0603X33N          7468.504      2789.370      180      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C136       10nF                               BottomLayer T_CAPC0603X33N          5260.000      1163.902      180      "Capacitor Ceramic X7R 10nF 25V 10% 0603"      
+C135       100nF                              BottomLayer T_CAPC0603X33N          4781.795      1163.902      360      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C134       10uF                               BottomLayer T_CAPC0603X33N          4781.496      1215.551      360      "Capacitor Ceramic X5R 10uF 6.3V 20% 0603"     
+C133       100nF                              TopLayer    T_CAPC0603X33N          3552.000      3446.000      360      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C132       22uF                               TopLayer    CAPC3225X160N           3720.445      3309.500      90       "Capacitor Ceramic X5R 22uF 25V 20% 1210"      
+C131       470nF                              TopLayer    T_CAPC0603X33N          6099.000      4952.000      180      "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C130       470nF                              TopLayer    T_CAPC0603X33N          6159.449      5249.016      360      "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C129       100nF                              TopLayer    T_CAPC0603X33N          6005.748      4852.362      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C128       100nF                              TopLayer    T_CAPC0603X33N          6110.000      4390.000      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C127       470nF                              TopLayer    T_CAPC0603X33N          5991.000      5089.000      90       "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C126       100nF                              TopLayer    T_CAPC0603X33N          6043.000      5170.000      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C125       100nF                              TopLayer    T_CAPC0603X33N          6410.000      5188.000      270      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C124       470nF                              TopLayer    T_CAPC0603X33N          5555.000      4952.000      180      "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C123       470nF                              TopLayer    T_CAPC0603X33N          5631.890      5249.016      360      "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C122       100nF                              TopLayer    T_CAPC0603X33N          5458.661      4852.362      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C121       100nF                              TopLayer    T_CAPC0603X33N          5559.000      4393.000      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C120       100nF                              TopLayer    T_CAPC0603X33N          6547.244      3042.323      360      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C119       470nF                              TopLayer    T_CAPC0603X33N          5464.000      5088.000      90       "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C118       100nF                              TopLayer    T_CAPC0603X33N          6687.000      3497.126      360      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C117       100nF                              TopLayer    T_CAPC0603X33N          6919.000      3225.000      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C116       4.7uF                              TopLayer    T_CAPC0603X33N          6968.000      3224.000      90       "Capacitor Ceramic X5R 4.7uF 6.3V 20% 0603"    
+C115       4.7uF                              TopLayer    T_CAPC0603X33N          6687.000      3544.126      360      "Capacitor Ceramic X5R 4.7uF 6.3V 20% 0603"    
+C114       4.7uF                              TopLayer    T_CAPC0603X33N          6548.228      2995.079      360      "Capacitor Ceramic X5R 4.7uF 6.3V 20% 0603"    
+C113       100nF                              TopLayer    T_CAPC0603X33N          5519.000      5170.000      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C112       100nF                              TopLayer    T_CAPC0603X33N          5898.000      5194.000      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C111       100nF                              TopLayer    T_CAPC0603X33N          4266.240      4655.512      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C110       1uF                                BottomLayer T_CAPMP3216X180N        4789.268      4272.733      180      "Capacitor TA 1uF 16V 10% 3216"                
+C109       4.7uF                              BottomLayer T_CAPMP3216X180N        4503.268      3831.551      270      "Capacitor TA 4.7uF 16V 10% 3216"              
+C108       470nF                              TopLayer    T_CAPC0603X33N          4927.882      4960.984      180      "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C107       470nF                              TopLayer    T_CAPC0603X33N          5051.181      5249.016      360      "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C106       100nF                              TopLayer    T_CAPC0603X33N          4879.921      4852.362      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C105       100nF                              TopLayer    T_CAPC0603X33N          4982.000      4383.000      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C104       470nF                              TopLayer    T_CAPC0603X33N          4868.882      5090.496      90       "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C103       100nF                              TopLayer    T_CAPC0603X33N          4920.882      5171.984      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C102       100nF                              TopLayer    T_CAPC0603X33N          5287.402      5194.882      270      "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C101       470nF                              TopLayer    T_CAPC0603X33N          4438.976      4957.677      180      "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C100       470nF                              TopLayer    T_CAPC0603X33N          4515.748      5249.016      360      "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C99        100nF                              TopLayer    T_CAPC0603X33N          4347.441      4852.362      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C98        100nF                              TopLayer    T_CAPC0603X33N          4449.000      4383.000      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C97        100nF                              TopLayer    T_CAPC0603X33N          6437.000      2842.024      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C96        470nF                              TopLayer    T_CAPC0603X33N          4354.882      5087.000      90       "Capacitor Ceramic X7R 470nF 16V 10% 0603"     
+C95        100nF                              TopLayer    T_CAPC0603X33N          6917.173      2626.827      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C94        100nF                              TopLayer    T_CAPC0603X33N          6643.000      2458.000      360      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C93        4.7uF                              TopLayer    T_CAPC0603X33N          6643.000      2407.000      360      "Capacitor Ceramic X5R 4.7uF 6.3V 20% 0603"    
+C92        4.7uF                              TopLayer    T_CAPC0603X33N          6966.173      2626.827      90       "Capacitor Ceramic X5R 4.7uF 6.3V 20% 0603"    
+C91        4.7uF                              TopLayer    T_CAPC0603X33N          6384.000      2842.024      270      "Capacitor Ceramic X5R 4.7uF 6.3V 20% 0603"    
+C90        100nF                              TopLayer    T_CAPC0603X33N          4404.882      5166.000      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C89        100nF                              TopLayer    T_CAPC0603X33N          4771.654      5194.882      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C88        10nF                               TopLayer    T_CAPC0603X33N          2747.976      2282.260      90       "Capacitor Ceramic X7R 10nF 25V 10% 0603"      
+C87        1nF                                TopLayer    T_CAPC0603X33N          1301.094      3732.000      90       "Capacitor Ceramic X7R 1nF 50V 10% 0603"       
+C86        150uF                              TopLayer    CAPMP7343X310N          1600.500      3938.000      180      "Capacitor TA 150uF 10V 10% 7343"              
+C84        150uF                              TopLayer    CAPMP7343X310N          1600.500      4163.079      180      "Capacitor TA 150uF 10V 10% 7343"              
+C83        10uF                               TopLayer    CAPC3225X160N           1823.594      3324.000      0        "Capacitor Ceramic X5R 10uF 50V 20% 1210"      
+C82        10uF                               TopLayer    CAPC3225X160N           1823.594      3179.000      0        "Capacitor Ceramic X5R 10uF 50V 20% 1210"      
+C81        10uF                               TopLayer    CAPC3225X160N           1168.594      3055.984      270      "Capacitor Ceramic X5R 10uF 50V 20% 1210"      
+C80        10uF                               TopLayer    T_CAPC0603X33N          1316.594      3288.488      90       "Capacitor Ceramic X5R 10uF 6.3V 20% 0603"     
+C79        150uF                              TopLayer    CAPMP7343X310N          1200.500      3938.000      360      "Capacitor TA 150uF 10V 10% 7343"              
+C78        100nF                              TopLayer    T_CAPC0603X33N          1227.000      3480.000      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C77        150uF                              TopLayer    CAPMP7343X310N          1200.500      4163.079      360      "Capacitor TA 150uF 10V 10% 7343"              
+C76        10uF                               TopLayer    T_CAPC0805X125N         2073.000      3222.000      270      "Capacitor Ceramic X5R 10uF 10V 20% 0805"      
+C75        2.7nF                              TopLayer    CAPC1005X60N            1517.000      3760.000      270      "Capacitor Ceramic X7R 2.7nF 50V 10% 0402"     
+C74        1nF                                TopLayer    T_CAPC0603X33N          1425.000      3719.000      270      "Capacitor Ceramic X7R 1nF 50V 10% 0603"       
+C73        100nF                              TopLayer    T_CAPC0603X33N          2077.000      3350.000      90       "Capacitor Ceramic X7R 100nF 50V 20% 0603"     
+C72        10uF                               TopLayer    CAPC3225X160N           978.595       3179.000      180      "Capacitor Ceramic X5R 10uF 50V 20% 1210"      
+C71        10uF                               TopLayer    CAPC3225X160N           978.595       3324.000      180      "Capacitor Ceramic X5R 10uF 50V 20% 1210"      
+C70        4.7uF                              TopLayer    T_CAPMP3216X180N        5955.000      3158.000      360      "Capacitor TA 4.7uF 10V 20% 3216"              
+C69        4.7uF                              TopLayer    T_CAPMP3216X180N        5955.000      2917.000      360      "Capacitor TA 4.7uF 10V 20% 3216"              
+C68        4.7uF                              TopLayer    T_CAPMP3216X180N        5955.000      3041.000      360      "Capacitor TA 4.7uF 10V 20% 3216"              
+C67        1uF                                TopLayer    T_CAPC0603X33N          1365.000      3288.488      90       "Capacitor Ceramic X5R 1uF 16V 20% 0603"       
+C66        100nF                              TopLayer    T_CAPC0603X33N          1571.000      3469.472      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C65        10uF                               TopLayer    T_CAPC0805X125N         1516.000      3264.000      90       "Capacitor Ceramic X5R 10uF 10V 20% 0805"      
+C64        4.7uF                              TopLayer    T_CAPMP3216X180N        5955.000      3571.000      360      "Capacitor TA 4.7uF 10V 20% 3216"              
+C63        4.7uF                              TopLayer    T_CAPMP3216X180N        5955.000      3355.000      360      "Capacitor TA 4.7uF 10V 20% 3216"              
+C62        22uF                               TopLayer    CAPMP3528X210N          5630.000      4249.000      180      "Capacitor TA 22uF 10V 20% 3528"               
+C61        10uf-50V-20%-1210-X5R              TopLayer    CAPC3225X160N           1323.101      3055.984      270      "Capacitor Ceramic X5R 10uF 50V 20% 1210"      
+C60        10uf-50V-20%-1210-X5R              TopLayer    CAPC3225X160N           1477.608      3055.984      270      "Capacitor Ceramic X5R 10uF 50V 20% 1210"      
+C59        10uf-50V-20%-1210-X5R              TopLayer    CAPC3225X160N           1632.114      3055.984      270      "Capacitor Ceramic X5R 10uF 50V 20% 1210"      
+C58        10nf-2KV-10%-1210                  TopLayer    1210                    893.701       862.205       360      33pf-50V-5%-0603                               
+C57        10nf-2KV-10%-1210                  BottomLayer 1210                    892.000       1084.000      360      33pf-50V-5%-0603                               
+C56        1uf-100V-10%-1210                  TopLayer    1210                    2888.000      1245.000      180      33pf-50V-5%-0603                               
+C55        1uf-100V-10%-1210                  TopLayer    1210                    1821.000      855.000       180      33pf-50V-5%-0603                               
+C54        1uf-100V-10%-1210                  TopLayer    1210                    1611.000      947.000       270      33pf-50V-5%-0603                               
+C53        1uf-100V-10%-1210                  TopLayer    1210                    1819.000      685.000       180      33pf-50V-5%-0603                               
+C52        100nF                              BottomLayer T_CAPC0603X33N          7716.535      872.063       180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C51        2.2uF                              BottomLayer T_CAPC0603X33N          7715.551      818.898       180      "Capacitor Ceramic X5R 2.2uF 6.3V 20% 0603"    
+C50        1uF                                BottomLayer T_CAPC0603X33N          7492.890      720.000       180      "Capacitor Ceramic X5R 1uF 16V 10% 0603"       
+C49        100nF                              BottomLayer T_CAPC0603X33N          7493.110      774.606       180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C48        4.7uF                              BottomLayer T_CAPC0603X33N          8260.693      458.173       270      "Capacitor Ceramic X5R 4.7uF 16V 10% 0603"     
+C47        100nF                              BottomLayer T_CAPC0603X33N          8309.693      458.173       270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C46        1uF                                BottomLayer T_CAPC0603X33N          8199.772      515.441       270      "Capacitor Ceramic X5R 1uF 16V 10% 0603"       
+C45        100nF                              BottomLayer T_CAPC0603X33N          8157.480      657.480       90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C44        100nF                              BottomLayer T_CAPC0603X33N          7793.000      657.000       270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C43        4.7uF                              BottomLayer T_CAPC0603X33N          8258.858      354.331       90       "Capacitor Ceramic X5R 4.7uF 16V 10% 0603"     
+C42        33pf-50V-5%-0603                   BottomLayer T_CAPC0603X33N          7675.000      282.000       90       33pf-50V-5%-0603                               
+C41        33pf-50V-5%-0603                   BottomLayer T_CAPC0603X33N          7786.417      320.000       90       "Capacitor Ceramic NP0 33pF 50V 5% 0603"       
+C40        33pf-50V-5%-0603                   BottomLayer T_CAPC0603X33N          7593.000      327.000       90       "Capacitor Ceramic NP0 33pF 50V 5% 0603"       
+C39        100nF                              TopLayer    T_CAPC0603X33N          6415.354      560.039       270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C38        4.7uF                              TopLayer    T_CAPC0603X33N          6366.027      560.000       270      "Capacitor Ceramic X5R 4.7uF 16V 10% 0603"     
+C37        33pf-50V-5%-0603                   BottomLayer T_CAPC0603X33N          7785.000      428.961       90       "Capacitor Ceramic NP0 33pF 50V 5% 0603"       
+C36        0.1uf-50V-10%-0603                 BottomLayer CAPC0603                7833.000      429.000       270      ""                                             
+C35        NM                                 TopLayer    T_CAPC0603X33N          7248.000      278.370       90       "Capacitor Ceramic X7R 100pF 10V 20% 0603"     
+C34        NM                                 TopLayer    T_CAPC0603X33N          7097.000      278.409       90       "Capacitor Ceramic X7R 100pF 10V 20% 0603"     
+C33        100pF                              TopLayer    T_CAPC0603X33N          7009.000      306.000       0        "Capacitor Ceramic X7R 100pF 10V 20% 0603"     
+C32        NM                                 TopLayer    T_CAPC0603X33N          8418.307      847.441       90       "Capacitor Ceramic X7R 100pF 10V 20% 0603"     
+C31        NM                                 TopLayer    T_CAPC0603X33N          8242.094      847.441       90       "Capacitor Ceramic X7R 100pF 10V 20% 0603"     
+C30        100nF                              TopLayer    T_CAPC0603X33N          7308.071      1177.165      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C29        1uF                                BottomLayer T_CAPMP3216X180N        988.457       4768.535      90       "Capacitor TA 1uF 35V 20% 3216"                
+C28        4.7uF                              BottomLayer T_CAPMP3216X180N        572.835       5040.354      180      "Capacitor TA 4.7uF 16V 10% 3216"              
+C27        100nF                              TopLayer    T_CAPC0603X33N          3892.803      5087.024      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C26        104/50V                            TopLayer    0603c                   2949.667      5134.000      90       ÌùÆ¬µçÈÝ                                           
+C25        104/50V                            TopLayer    0603c                   2694.333      5134.000      90       ÌùÆ¬µçÈÝ                                           
+C24        104/50V                            TopLayer    0603c                   2439.000      5134.000      90       ÌùÆ¬µçÈÝ                                           
+C23        100nF                              BottomLayer T_CAPC0603X33N          7208.000      4523.000      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C22        100nF                              BottomLayer T_CAPC0603X33N          7208.000      3968.000      180      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C21        104/50V                            TopLayer    0603c                   2166.000      5134.000      90       ÌùÆ¬µçÈÝ                                           
+C20        104/50V                            BottomLayer 0603c                   2030.512      5106.441      90       ÌùÆ¬µçÈÝ                                           
+C19        104/50V                            TopLayer    0603c                   3729.000      5134.000      90       ÌùÆ¬µçÈÝ                                           
+C18        104/50V                            BottomLayer 0603c                   1747.047      5106.441      90       ÌùÆ¬µçÈÝ                                           
+C17        104/50V                            TopLayer    0603c                   3467.000      5134.000      90       ÌùÆ¬µçÈÝ                                           
+C16        104/50V                            BottomLayer 0603c                   1456.024      5106.441      90       ÌùÆ¬µçÈÝ                                           
+C15        104/50V                            TopLayer    0603c                   3205.000      5134.000      90       ÌùÆ¬µçÈÝ                                           
+C14        100nF                              TopLayer    T_CAPC0603X33N          7690.002      3180.764      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C13        47uF                               TopLayer    T_CAPMP3216X180N        7794.000      3042.000      360      "Capacitor TA 47uF 10V 10% 3216"               
+C12        100nF                              TopLayer    T_CAPC0603X33N          7805.004      3180.764      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C11        100nF                              TopLayer    T_CAPC0603X33N          7606.370      3101.000      360      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C10        100nF                              TopLayer    T_CAPC0603X33N          7920.007      3180.764      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C9         100nF                              TopLayer    T_CAPC0603X33N          7575.000      3180.764      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C8         1nF                                TopLayer    CAPC1005X60N            8284.000      4125.630      0        "Capacitor Ceramic X7R 1nF 50V 10% 0402"       
+C7         100nF                              TopLayer    T_CAPC0603X33N          6874.016      2082.677      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C6         1uF                                TopLayer    T_CAPMP3216X180N        7174.000      1845.087      180      "Capacitor TA 1uF 16V 10% 3216"                
+C5         4.7uF                              TopLayer    T_CAPMP3216X180N        6878.000      2270.221      90       "Capacitor TA 4.7uF 16V 10% 3216"              
+C4         100nF                              TopLayer    T_CAPC0603X33N          7451.772      1884.842      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C3         100nF                              TopLayer    T_CAPC0603X33N          6856.000      1644.040      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C2         100nF                              TopLayer    T_CAPC0603X33N          7427.000      1644.040      90       "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+C1         100nF                              TopLayer    T_CAPC0603X33N          7454.724      1403.543      270      "Capacitor Ceramic X7R 100nF 16V 10% 0603"     
+BAT1       "="Manufacturer Part No.""         TopLayer    CR1220-Z                2837.000      3372.000      270      "CR1220 Battery Holder"                        

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RUN Pin=RA2-5
+Removed Pin From Net: NetName=PWRKEY_1 Pin=RA2-8
+Added Pin To Net: NetName=PWRKEY_1 Pin=RA2-5
+Added Pin To Net: NetName=RUN Pin=RA2-8

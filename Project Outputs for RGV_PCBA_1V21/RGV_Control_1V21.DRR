@@ -1,0 +1,39 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RGV_Control_1V21.PcbDoc   2019/3/23  17:33:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RGV_Control_1V21-RoundHoles.TXT
+ASCII SlotHoles File : RGV_Control_1V21-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             32        PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             803       PTH        0.00inch (0.00mm)
+T3      30mil (0.762mm)                                           Slot              3         PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             17        PTH        0.00inch (0.00mm)
+T5      35mil (0.889mm)                                           Round             11        PTH        0.00inch (0.00mm)
+T6      38mil (0.965mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T7      39mil (1mm)                                               Round             202       PTH        0.00inch (0.00mm)
+T8      43mil (1.1mm)                                             Round             7         PTH        0.00inch (0.00mm)
+T9      50mil (1.27mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T10     51mil (1.3mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T11     55mil (1.4mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T12     59mil (1.5mm)                                             Round             16        PTH        0.00inch (0.00mm)
+T13     62mil (1.575mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T14     65mil (1.65mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T15     65mil (1.65mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T16     71mil (1.8mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T17     98mil (2.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T18     118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T19     126mil (3.2mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T20     134mil (3.402mm)                                          Round             5         PTH        0.00inch (0.00mm)
+T21     138mil (3.5mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T22     170mil (4.33mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T23     43mil (1.1mm)                                             Round             3         NPTH       0.00inch (0.00mm)
+T24     63mil (1.6mm)                                             Round             3         NPTH       0.00inch (0.00mm)
+T25     128mil (3.251mm)                                          Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1161
+
+Total Processing Time (hh:mm:ss) : 00:00:01

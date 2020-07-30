@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D43 Old Footprint=UDFN6 New Footprint=SOT-563
+Change Component Comment : Designator=D43 Old Comment=NUP5150MUTBG New Comment=CESDLC5V0M5
+Change component parameters: Designator = "D43"; Footprint = "SOT-563"; UniqueID = "\FNQPJFHY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CESDLC5V0M5"; VariantName = "[No Variations]"

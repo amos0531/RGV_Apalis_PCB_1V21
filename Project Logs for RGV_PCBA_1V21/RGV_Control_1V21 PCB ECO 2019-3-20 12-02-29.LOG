@@ -1,0 +1,24 @@
+Added Component: Designator=C177(CAPC0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27pf"; VariantName = "[No Variations]"
+Added Component: Designator=C178(CAPC0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27pf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C177-2
+Added Pin To Net: NetName=GND Pin=C178-2
+Added Pin To Net: NetName=NetC177_1 Pin=C177-1
+Added Pin To Net: NetName=NetC177_1 Pin=IC23-1
+Added Pin To Net: NetName=NetC177_1 Pin=OSC1-2
+Added Net: Name=NetC177_1
+Added Pin To Net: NetName=NetC178_1 Pin=C178-1
+Added Pin To Net: NetName=NetC178_1 Pin=IC23-2
+Added Pin To Net: NetName=NetC178_1 Pin=OSC1-1
+Added Net: Name=NetC178_1
+Added Member To Class: ClassName=3_RTC Member=Component C177 27pf-50V-1%-0603
+Added Member To Class: ClassName=3_RTC Member=Component C178 0.1uf-50V-10%-0603
